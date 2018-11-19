@@ -1,0 +1,58 @@
+fit_range:
+  max: 27.82559402207123
+  min: 0.8799225435691069
+  unit: TeV
+model:
+  covariance:
+  - - 4.9288988277172934e-24
+    - 0.0
+    - 2.2476229868158443e-13
+    - -6.321635973065602e-14
+  - - 0.0
+    - 0.0
+    - 0.0
+    - 0.0
+  - - 2.2476229868158443e-13
+    - 0.0
+    - 0.03726983074395668
+    - -0.01744381381305579
+  - - -6.321635973065602e-14
+    - 0.0
+    - -0.01744381381305579
+    - 0.009906858126884011
+  name: LogParabola
+  parameters:
+  - factor: 3.3293071850162406
+    frozen: false
+    max: .nan
+    min: .nan
+    name: amplitude
+    scale: 1.0e-11
+    unit: cm-2 s-1 TeV-1
+    value: 3.32930718501624e-11
+  - factor: 1.0
+    frozen: true
+    max: .nan
+    min: .nan
+    name: reference
+    scale: 1
+    unit: TeV
+    value: 1.0
+  - factor: 2.3232727851828154
+    frozen: false
+    max: .nan
+    min: .nan
+    name: alpha
+    scale: 1
+    unit: ''
+    value: 2.3232727851828154
+  - factor: 18.660160417901338
+    frozen: false
+    max: .nan
+    min: .nan
+    name: beta
+    scale: 0.01
+    unit: ''
+    value: 0.1866016041790134
+statname: wstat
+statval: 39.25755732042461
