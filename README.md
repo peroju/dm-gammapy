@@ -26,7 +26,8 @@ Analysis
 * [Short HESS 3D analysis](https://docs.gammapy.org/0.8/notebooks/hess.html)
 
 #### Spectrum fitting
-* [Fitting flux points to a model](https://docs.gammapy.org/0.8/notebooks/sed_fitting_gammacat_fermi.html)
+* [Fitting flux points to a spectral model](https://docs.gammapy.org/0.8/notebooks/sed_fitting_gammacat_fermi.html) 
+* [Fitting DM model flux points to a spectral model](./notebooks/FittingSpectralPoints.ipynb)
 
 #### Spectral models
 * [Spectral models in Gammapy](https://docs.gammapy.org/0.8/notebooks/spectrum_models.html)
