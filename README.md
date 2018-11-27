@@ -18,15 +18,16 @@ Analysis
 
 #### Source detection
 * [Source detection](https://docs.gammapy.org/0.8/notebooks/detect_ts.html)
-* [CTA data analysis with Gammapy](https://docs.gammapy.org/0.8/notebooks/cta_data_analysis.html?highlight=tsmapestimator)
+* [CTA data analysis with Gammapy](https://docs.gammapy.org/0.8/notebooks/cta_data_analysis.html)
 
 #### Flux estimation
+* [Spectral analysis of a target](./notebooks/TargetSpectrumFlux.ipynb)
 * [Spectral analysis with Gammapy](https://docs.gammapy.org/0.8/notebooks/spectrum_analysis.html)
 * [CTA data analysis with Gammapy](https://docs.gammapy.org/0.8/notebooks/cta_data_analysis.html)
 * [Short HESS 3D analysis](https://docs.gammapy.org/0.8/notebooks/hess.html)
 
 #### Spectrum fitting
-* [Fitting flux points to a spectral model](https://docs.gammapy.org/0.8/notebooks/sed_fitting_gammacat_fermi.html) 
+* [Fitting flux points to a spectral model](https://docs.gammapy.org/0.8/notebooks/sed_fitting_gammacat_fermi.html)
 * [Fitting DM model flux points to a spectral model](./notebooks/FittingSpectralPoints.ipynb)
 
 #### Spectral models
