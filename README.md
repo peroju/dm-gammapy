@@ -28,11 +28,13 @@ Analysis
 ### Flux estimation
 *This repo notebooks*
 * [Spectral analysis of a target](./notebooks/TargetSpectrumFlux.ipynb)
+* [Upper limits for a region with no detection ](./notebooks/FluxUpperLimits.ipynb)
 
 *Gammapy tutorials*
 * [Spectral analysis with Gammapy](https://docs.gammapy.org/0.8/notebooks/spectrum_analysis.html)
 * [CTA data analysis with Gammapy](https://docs.gammapy.org/0.8/notebooks/cta_data_analysis.html)
 * [Short HESS 3D analysis](https://docs.gammapy.org/0.8/notebooks/hess.html)
+* [CTA sensitivity curve](https://docs.gammapy.org/0.8/notebooks/cta_sensitivity.html)
 
 ### Spectrum fitting
 *This repo notebooks*
