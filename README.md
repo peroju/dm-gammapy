@@ -54,6 +54,9 @@ Analysis
 
 Simulations
 -----------
+*This repo notebooks*
+* [Simulated DM Spectrum](./notebooks/SimulatedSpectrumDM.ipynb)
+
 *Gammapy tutorials*
 * [Spectrum simulation for CTA](https://docs.gammapy.org/0.8/notebooks/spectrum_simulation_cta.html)
 * [3D simulation and fitting](https://docs.gammapy.org/0.8/notebooks/simulate_3d.html)
