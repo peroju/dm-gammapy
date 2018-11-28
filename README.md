@@ -56,6 +56,7 @@ Simulations
 -----------
 *This repo notebooks*
 * [Simulated DM Spectrum](./notebooks/SimulatedSpectrumDM.ipynb)
+* [Simulated counts from Clumpy spatial template ](./notebooks/SkyDiffuseSimulation.ipynb)
 
 *Gammapy tutorials*
 * [Spectrum simulation for CTA](https://docs.gammapy.org/0.8/notebooks/spectrum_simulation_cta.html)
