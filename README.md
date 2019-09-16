@@ -16,7 +16,7 @@ Analysis
 --------
 ### 3D Modelling
 *Gammapy tutorials*
-* [CTA DC 3D analysis of observations - *ipynb file*](https://github.com/gammapy/gammapy-extra/blob/master/analyses/cta_1dc_gc_3d.ipynb)
+* [CTA DC 3D analysis of observations - *ipynb file*](https://github.com/gammapy/gammapy-extra/blob/master/analyses/cta_1dc_gc_3d.ipynb) Using old v0.9 gammapy version.
 * [Shorter 3D analysis](https://docs.gammapy.org/dev/notebooks/analysis_3d.html)
 * [Short HESS 3D analysis](https://docs.gammapy.org/dev/notebooks/hess.html)
 
